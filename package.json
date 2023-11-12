@@ -1,0 +1,11 @@
+{
+  "name": "quick-3d-rpg",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
